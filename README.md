@@ -95,7 +95,7 @@ README.md                           # Este archivo
 
 ---
 
-## 🔬 Detalles técnicos
+##  Detalles técnicos
 
 ### Codificación en Capa de Presentación
 La Capa 6 (Presentación) aplica codificación **Base64** al mensaje del usuario durante la encapsulación, y la Capa 6 del receptor realiza la decodificación inversa, devolviendo el mensaje original.
