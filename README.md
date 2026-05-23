@@ -1,4 +1,4 @@
-# 🌐 Simulador de Capas del Modelo OSI
+#  Simulador de Capas del Modelo OSI
 
 Aplicación de escritorio desarrollada con **Python + Tkinter** que visualiza en tiempo real el proceso de transmisión de datos a través de las **7 capas del Modelo OSI**, simulando el flujo completo entre un Emisor y un Receptor con métricas de teoría de colas (M/M/1).
 
@@ -6,7 +6,7 @@ Aplicación de escritorio desarrollada con **Python + Tkinter** que visualiza en
 
 ---
 
-## 📸 Características principales
+##  Características principales
 
 - **Visualización animada** capa por capa (C7 → C1 en el Emisor, C1 → C7 en el Receptor)
 - **Codificación Base64** simulada en la Capa de Presentación (C6) y decodificación automática en el receptor
@@ -20,7 +20,7 @@ Aplicación de escritorio desarrollada con **Python + Tkinter** que visualiza en
 
 ---
 
-## 🧱 Arquitectura — Capas OSI simuladas
+##  Arquitectura — Capas OSI simuladas
 
 | Capa | Nombre        | Abrev. | PDU generada     |
 |------|---------------|--------|------------------|
@@ -36,7 +36,7 @@ Aplicación de escritorio desarrollada con **Python + Tkinter** que visualiza en
 
 ---
 
-## ⚙️ Requisitos
+##  Requisitos
 
 - **Python 3.8** o superior
 - **Tkinter** (incluido por defecto en la mayoría de instalaciones de Python)
@@ -65,7 +65,7 @@ sudo dnf install python3-tkinter
 
 ---
 
-## 🚀 Ejecución
+## Ejecución
 
 ```bash
 python Simulador_de_capas_modelo_OSI.py
@@ -73,7 +73,7 @@ python Simulador_de_capas_modelo_OSI.py
 
 ---
 
-## 🖥️ Cómo usar el simulador
+##  Cómo usar el simulador
 
 1. **Escribe un mensaje** en el campo de texto (ej: `Hola Mundo`).
 2. Haz clic en **ENVIAR**.
@@ -86,7 +86,7 @@ python Simulador_de_capas_modelo_OSI.py
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 Simulador_de_capas_modelo_OSI.py   # Archivo principal — toda la lógica y UI
@@ -112,7 +112,7 @@ La interfaz usa `root.after()` con retardos de 180 ms por paso y 900 ms en el ca
 
 ---
 
-## 🎨 Temas visuales
+##  Temas visuales
 
 | Tema   | Fondo        | Consola Emisor | Consola Receptor |
 |--------|-------------|----------------|-----------------|
@@ -121,7 +121,7 @@ La interfaz usa `root.after()` con retardos de 180 ms por paso y 900 ms en el ca
 
 ---
 
-## 📚 Conceptos aplicados
+##  Conceptos aplicados
 
 - Modelo de referencia OSI (ISO/IEC 7498-1)
 - Encapsulación y desencapsulación de datos
@@ -133,12 +133,12 @@ La interfaz usa `root.after()` con retardos de 180 ms por paso y 900 ms en el ca
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
-Desarrollado como proyecto académico para la asignatura de **Redes de Computadoras** — UNEMI 2026.
+Desarrollado como proyecto académico para la asignatura de **Redes de comunicacion** — UNEMI 2026.
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Uso académico. Libre para modificar y distribuir con fines educativos.
