@@ -90,7 +90,7 @@ python Simulador_de_capas_modelo_OSI.py
 
 ```
 Simulador_de_capas_modelo_OSI.py   # Archivo principal — toda la lógica y UI
-README.md                           # Este archivo
+README.md                           # Este archivo de presentación del simulador
 ```
 
 ---
