@@ -135,7 +135,7 @@ La interfaz usa `root.after()` con retardos de 180 ms por paso y 900 ms en el ca
 
 ##  Autor
 
-Desarrollado como proyecto académico para la asignatura de **Redes de comunicacion** — UNEMI 2026.
+Desarrollado como proyecto académico para la asignatura de **Ccomunicación de datos** — UNEMI 2026.
 
 ---
 
